@@ -180,10 +180,9 @@ section {
 }
 
 .section__pic-container {
-  position: relative;
-  margin-top: -120px;
-  height: 40px;
-  width: 40px;
+  display: flex;
+  height: 600px;
+  width: 400px;
 }
 
 .section__text {
