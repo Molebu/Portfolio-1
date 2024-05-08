@@ -90,7 +90,6 @@
     width: auto;
     height: 46vw;
     justify-content: center;
-    margin-top: 5px;
   }
   .section__text__p2 {
     font-size: 1.25rem;
@@ -100,6 +99,5 @@
   }
   .text-container {
     text-align: justify;
-    margin-top: 40px;
   }
 }
