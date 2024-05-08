@@ -183,6 +183,8 @@ section {
   align-self: center;
   position: relative;
   margin-top: -120px;
+  height: 40px;
+  width: 40px;
 }
 
 .section__text {
