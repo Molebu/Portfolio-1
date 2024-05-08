@@ -258,8 +258,10 @@ section {
   color: white;
 }
 
-.btn-color-1:hover {
+.btn-color-1:hover,
+.btn-color-2 {
   background: rgb(0, 0, 0);
+  color: white;
 }
 
 .btn-color-2 {
