@@ -180,7 +180,6 @@ section {
 }
 
 .section__pic-container {
-  align-self: center;
   position: relative;
   margin-top: -120px;
   height: 40px;
